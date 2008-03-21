@@ -1,0 +1,497 @@
+93	Afghanistan
+355	Albania
+213	Algeria
+1684	American Samoa
+376	Andorra
+244	Angola
+1264	Anguilla
+672	Antarctica
+1268	Antigua
+54	Argentina
+374	Armenia
+297	Aruba
+247	Ascension
+612	Australia - Central East Region
+613	Australia - South East Region
+614	Australia - Digital GSM Mobile phones
+617	Australia - North East Region
+618	Australia - Central & West Region
+67210	Australian External Territories - Davis
+67211	Australian External Territories - Mawson
+67212	Australian External Territories - Casey
+67213	Australian External Territories - Macquarie Island
+43	Austria
+994	Azerbaijan
+1242	Bahamas
+973	Bahrain
+880	Bangladesh
+1246	Barbados
+1268	Barbuda
+375	Belarus
+32	Belgium
+501	Belize
+229	Benin
+1441	Bermuda
+975	Bhutan
+591	Bolivia
+387	Bosnia & Herzegovina
+267	Botswana
+55	Brazil
+1284	British Virgin Islands
+673	Brunei Darussalam
+359	Bulgaria
+226	Burkina Faso
+257	Burundi
+855	Cambodia
+237	Cameroon
+1780	Canada - Alberta (Northern)
+1403	Canada - Alberta (Southern)
+1250	Canada - British Columbia (Except Vancouver)
+1604	Canada - British Columbia (Vancouver area)
+1807	Canada - Fort William
+1519	Canada - London
+1204	Canada - Manitoba
+1506	Canada - New Brunswick
+1709	Canada - Newfoundland
+1867	Canada - Northwest Territories
+1867	Canada - Nunavut
+1902	Canada - Nova Scotia
+1519	Canada - Ontario (London)
+1705	Canada - Ontario (North Bay)
+1613	Canada - Ontario (Ottawa)
+1807	Canada - Ontario (Thunder Bay)
+1416	Canada - Ontario (Toronto Metro) See note above
+1905	Canada - Ontario (Toronto Vicinity) See note above
+1902	Canada - Prince Edward Island
+1514	Canada - Québec (Montréal Island)
+1450	Canada - Québec (Montréal north & south shore)
+1418	Canada - Québec (Québec City)
+1819	Canada - Québec (Sherbrooke)
+1306	Canada - Saskatchewan
+1867	Canada - Yukon Territory
+238	Cape Verde Islands
+1345	Cayman Islands
+236	Central African Republic
+235	Chad
+64	Chatham Island (New Zealand)
+5655	Chile - Antofagasta
+5658	Chile - Arica
+5655	Chile - Calama
+5642	Chile - Chillán
+5641	Chile - Concepción
+5652	Chile - Copiacó
+5651	Chile - Coquimbo
+5667	Chile - Coyhaique
+5675	Chile - Curicó
+5657	Chile - Iquique
+5651	Chile - La Serena
+5673	Chile - Linares
+5634	Chile - Los Andes
+5643	Chile - Los Angeles
+5664	Chile - Osorno
+5653	Chile - Ovalle
+5665	Chile - Puerto Montt
+5661	Chile - Punta Arenas
+5633	Chile - Quillota
+5672	Chile - Rancagua
+5635	Chile - San Antonio
+5634	Chile - San Felipe
+5672	Chile - San Fernando
+562	Chile - Santiago (Metropolitan Region)
+5641	Chile - Talcahuano
+5671	Chile - Talca
+5645	Chile - Temuco
+5663	Chile - Valdivia
+5632	Chile - Valparaíso
+5632	Chile - Viña del Mar
+86	China (PRC)
+618	Christmas Island
+6189162	CocosKeeling Islands
+57	Colombia
+269719	Comoros - Domoni
+269710	Comoros - Mutsamudu
+269716	Comoros - Mutsamudu
+269718	Comoros - Sima
+269720	Comoros - Fomboni
+269725	Comoros - Fomboni
+269726	Comoros - Nioumachoua
+269728	Comoros - Wanani
+26979	Comoros - Foumbouni and South of Island
+26977	Comoros - Mbéni and East of Island
+26978	Comoros - Mitsamiouli and North of Island
+26973	Comoros - Moroni and Centre of Island
+26974	Comoros - Moroni and Centre of Island
+26976	Comoros - Internet and special numbers
+2693	Comoros - HURI Mobile  (GSM 900)
+242	Congo
+243	Congo, Dem. Rep. of  (former Zaire)
+682	Cook Islands
+506	Costa Rica
+225	Côte d'Ivoire (Ivory Coast)
+385	Croatia
+53	Cuba
+5399	Cuba (Guantanamo Bay)
+599	Curaçao
+357	Cyprus
+420	Czech Republic
+45	Denmark
+246	Diego Garcia
+253	Djibouti
+1767	Dominica
+1829	Dominican Republic
+1809	Dominican Republic
+670	East Timor
+56	Easter Island
+593	Ecuador
+20	Egypt
+503	El Salvador
+8812	Ellipso (Mobile Satellite service)
+8813	Ellipso (Mobile Satellite service)
+88213	EMSAT (Mobile Satellite service)
+240	Equatorial Guinea
+291	Eritrea
+372	Estonia
+251	Ethiopia
+500	Falkland Islands (Malvinas)
+298	Faroe Islands
+679	Fiji Islands
+358	Finland
+33	France
+596	French Antilles
+594	French Guiana
+689	French Polynesia
+241	Gabonese Republic
+220	Gambia
+995	Georgia
+49	Germany
+233	Ghana
+350	Gibraltar
+881	Global Mobile Satellite System (GMSS)
+8818	Globalstar (Mobile Satellite Service)
+8819	Globalstar (Mobile Satellite Service)
+30	Greece
+299	Greenland
+1473	Grenada
+590	Guadeloupe
+1671	Guam
+5399	Guantanamo Bay
+502	Guatemala
+245	GuineaBissau
+224	Guinea
+592	Guyana
+509	Haiti
+504	Honduras
+852	Hong Kong
+36	Hungary
+8810	ICO Global (Mobile Satellite Service)
+8811	ICO Global (Mobile Satellite Service)
+354	Iceland
+91	India
+62	Indonesia
+871	Inmarsat (Atlantic Ocean  East)
+874	Inmarsat (Atlantic Ocean  West)
+873	Inmarsat (Indian Ocean)
+872	Inmarsat (Pacific Ocean)
+870	Inmarsat SNAC
+800	International Freephone Service
+808	International Shared Cost Service (ISCS)
+98	Iran
+964	Iraq
+353	Ireland
+8816	Iridium (Mobile Satellite service)
+8817	Iridium (Mobile Satellite service)
+972	Israel
+39071	Italy - Ancona
+39080	Italy - Bari
+39035	Italy - Bergamo
+39051	Italy - Bologna
+39030	Italy - Brescia
+390831	Italy - Brindisi
+39070	Italy - Cagliari
+39081	Italy - Capri
+39095	Italy - Catania
+39031	Italy - Como
+39055	Italy - Florence (Firenze)
+39010	Italy - Genoa
+390465	Italy - Madonna de Campiglio
+390884	Italy - Manfredonia
+39090	Italy - Messina
+3902	Italy - Milan
+39039	Italy - Monza
+39081	Italy - Naples
+39049	Italy - Padova
+39091	Italy - Palermo
+39050	Italy - Pisa
+390522	Italy - Reggio Emilia
+390541	Italy - Rimini
+3906	Italy - Rome
+39019	Italy - Savona
+39011	Italy - Torino
+39040	Italy - Trieste
+39041	Italy - Venice
+39045	Italy - Verona
+390444	Italy - Vicenza
+3906	Italy - Vatican City
+1876	Jamaica
+81	Japan
+962	Jordan
+7317	Kazakhstan - Akmola
+7329	Kazakhstan - Aktau
+7313	Kazakhstan - Aktubinsk
+7327	Kazakhstan - Almaty
+7330	Kazakhstan - Arkalyk
+7312	Kazakhstan - Atyrau
+7321	Kazakhstan - Karaganda
+7314	Kazakhstan - Kostanai
+7324	Kazakhstan - Kzyl-Orda
+7336	Kazakhstan - Leninsk
+7318	Kazakhstan - Pavlodar
+7315	Kazakhstan - Petropavlovsk
+7322	Kazakhstan - Semipalatinsk
+7325	Kazakhstan - Shymkent
+7328	Kazakhstan - Taldykorgan
+7311	Kazakhstan - Uralsk
+7323	Kazakhstan - Ust-Kamenogorsk
+7326	Kazakhstan - Zhambyl
+7310	Kazakhstan - Zhezkazgan
+254	Kenya
+686	Kiribati
+850	Korea (North)
+82	Korea (South)
+965	Kuwait
+996	Kyrgyz Republic
+856	Laos
+371	Latvia
+961	Lebanon
+266	Lesotho
+231	Liberia
+218	Libya
+423	Liechtenstein
+370	Lithuania
+352	Luxembourg
+853	Macao
+389	Macedonia (Former Yugoslav Rep of.)
+261	Madagascar
+265	Malawi
+60	Malaysia
+960	Maldives
+223	Mali Republic
+356	Malta
+692	Marshall Islands
+596	Martinique
+222	Mauritania
+230	Mauritius
+269	Mayotte Island
+52	Mexico
+691	Micronesia, (Federal States of)
+1808	Midway Island
+373	Moldova
+377	Monaco
+976	Mongolia
+382	Montenegro
+1664	Montserrat
+212	Morocco
+258	Mozambique
+95	Myanmar
+264	Namibia
+674	Nauru
+977	Nepal
+31	Netherlands
+5997	Netherlands Antilles - Bonaire
+599717	Netherlands Antilles - Bonaire
+59978	Netherlands Antilles - Telbo Cellular
+59979	Netherlands Antilles - Cellular One
+5999	Netherlands Antilles - Curacao
+5996	Netherlands Antilles - Curacao (Mobile Numbers)
+599416	Netherlands Antilles - Saba
+5994165	Netherlands Antilles - Saba (Windward Island Cellular)
+599318	Netherlands Antilles - St. Eutatius
+59954	Netherlands Antilles - St. Maarten
+59951	Netherlands Antilles - St. Maarten
+59956	Netherlands Antilles - St. Maarten
+59957	Netherlands Antilles - St. Maarten
+59959	Netherlands Antilles - St. Maarten
+599553	Netherlands Antilles - St. Maarten
+599554	Netherlands Antilles - St. Maarten
+18699	Nevis - Auckland
+18693	Nevis - Christchurch
+18693	Nevis - Dunedin
+18697	Nevis - Hamilton
+18696	Nevis - Hastings
+18693	Nevis - Invercargill
+18696	Nevis - Napier
+18693	Nevis - Nelson
+18696	Nevis - New Plymouth
+186924	Nevis - New Zealand External Territories
+18697	Nevis - North Island (Central and Eastern)
+18699	Nevis - North Island (North)
+18696	Nevis - North Island (Western)
+18696	Nevis - Palmerston North
+18699	Nevis - Pokeno
+18697	Nevis - Rotorua
+18693	Nevis - South Island
+18697	Nevis - Tauranga
+186927	Nevis - Telecom CDMAOne
+186989	Nevis - Telecom Minicall Pager
+186925	Nevis - Telecom Mobile (AMPS/DAMPS)
+186926	Nevis - Telecom Pager
+186929	Nevis - Telstra (GSM)
+18693	Nevis - Timaru
+186921	Nevis - Vodafone (GSM)
+18696	Nevis - Wanganui
+18694	Nevis - Wellington Region
+18699	Nevis - Whangarei
+687	New Caledonia
+64	New Zealand -
+649	New Zealand - Auckland
+643	New Zealand - Christchurch
+643	New Zealand - Dunedin
+647	New Zealand - Hamilton
+646	New Zealand - Hastings
+643	New Zealand - Invercargill
+646	New Zealand - Napier
+643	New Zealand - Nelson
+646	New Zealand - New Plymouth
+6424	New Zealand - New Zealand External Territories
+647	New Zealand - North Island (Central and Eastern)
+649	New Zealand - North Island (North)
+646	New Zealand - North Island (Western)
+646	New Zealand - Palmerston North
+649	New Zealand - Pokeno
+647	New Zealand - Rotorua
+643	New Zealand - South Island
+647	New Zealand - Tauranga
+6427	New Zealand - Telecom CDMAOne
+6489	New Zealand - Telecom Minicall Pager
+6425	New Zealand - Telecom Mobile (AMPS/DAMPS)
+6426	New Zealand - Telecom Pager
+6429	New Zealand - Telstra (GSM)
+643	New Zealand - Timaru
+6421	New Zealand - Vodafone (GSM)
+646	New Zealand - Wanganui
+644	New Zealand - Wellington Region
+649	New Zealand - Whangarei
+505	Nicaragua
+227	Niger
+234	Nigeria
+683	Niue
+672	Norfolk Island
+1670	(Saipan, Rota, & Tinian)
+47	Norway
+968	Oman
+92	Pakistan
+680	Palau
+970	Palestinian Settlements
+507	Panama
+675	Papua New Guinea
+595	Paraguay
+51	Peru
+63	Philippines
+48	Poland
+351	Portugal
+1787	Puerto Rico
+1939	Puerto Rico
+974	Qatar
+262	Réunion Island
+40	Romania
+7472	Russia - Belgorod
+7483	Russia - Bryansk
+7492	Russia - Vladimir
+7473	Russia - Voronezh
+7493	Russia - Ivanovo
+7401	Russia - Kaliningrad
+7484	Russia - Kaluga
+7494	Russia - Kostroma
+7471	Russia - Kursk
+7474	Russia - Lipetsk
+7495	Russia - Moscow (municipal)
+7496	Russia - Moscow (regional)
+7486	Russia - Oryol
+7491	Russia - Ryazan
+7481	Russia - Smolensk
+7475	Russia - Tambov
+7482	Russia - Tver
+7487	Russia - Tula
+7485	Russia - Yaroslavl
+250	Rwandese Republic
+290	St. Helena
+1869	St. Kitts/Nevis
+1758	St. Lucia
+508	St. Pierre & Miquelon
+1784	St. Vincent & Grenadines
+685	Samoa
+378	San Marino
+239	São Tomé and Principe
+966	Saudi Arabia
+221	Senegal
+381	Serbia
+248	Seychelles Republic
+232	Sierra Leone
+65	Singapore
+421	Slovak Republic
+386	Slovenia
+677	Solomon Islands
+252	Somali Democratic Republic
+27	South Africa
+34	Spain
+94	Sri Lanka
+249	Sudan
+597	Suriname
+268	Swaziland
+46	Sweden
+41	Switzerland
+963	Syria
+886	Taiwan
+992	Tajikistan
+25527	Tanzania - Arusha
+25522	Tanzania - Dar Es Salaam
+25526	Tanzania - Dodoma
+25526	Tanzania - Iringa
+25528	Tanzania - Kagera
+25528	Tanzania - Kigoma
+25527	Tanzania - Kilimanjao
+25523	Tanzania - Lindi
+25528	Tanzania - Mara
+25525	Tanzania - Mbeya
+255223	Tanzania - Morogoro
+25523	Tanzania - Mtara
+25528	Tanzania - Mwanza
+25524	Tanzania - Pemba
+25523	Tanzania - Pwani
+25525	Tanzania - Rukwa
+25525	Tanzania - Ruvuma
+25528	Tanzania - Shinyanga
+25526	Tanzania - Singida
+25526	Tanzania - Tabora
+25527	Tanzania - Tanga
+25524	Tanzania - Zanzibar
+66	Thailand
+88216	Thuraya (Mobile Satellite service)
+670	Timor Leste
+228	Togolese Republic
+690	Tokelau
+676	Tonga Islands
+1868	Trinidad & Tobago
+216	Tunisia
+90	Turkey
+993	Turkmenistan
+1649	Turks and Caicos Islands
+380	Ukraine
+971	United Arab Emirates
+44	United Kingdom
+1	United States of America
+1340	US Virgin Islands
+878	Universal Personal Telecommunications (UPT)
+598	Uruguay
+998	Uzbekistan
+678	Vanuatu
+39	Vatican City
+379	Vatican City
+58	Venezuela
+84	Vietnam
+808	Wake Island
+681	Wallis and Futuna Islands
+967	Yemen
+260	Zambia
+255	Zanzibar
+263	Zimbabwe
